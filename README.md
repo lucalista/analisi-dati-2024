@@ -1,4 +1,4 @@
-Corso di:
+Corso di: 
 
 # Analisi Statistica dei Dati Sperimentali
 
